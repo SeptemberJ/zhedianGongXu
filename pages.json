@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/Login/index",
+			"style": {
+				"navigationBarTitleText": "柘电工序"
+			}
+		},
+		{
+			"path": "pages/Scan/index",
+			"style": {
+				"navigationBarTitleText": "工序列表"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#3f51b5",
+		"backgroundColor": "#FFFFFF"
+	}
+}
